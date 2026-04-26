@@ -176,7 +176,7 @@ gc version          # should print the installed version and commit
 
 If that runs `git commit` instead of Gas City, your shell has a `gc` alias.
 Use `command gc version` for this check and see
-[Troubleshooting](/docs/getting-started/troubleshooting#oh-my-zsh-git-plugin-hides-gc)
+[Troubleshooting](/docs/getting-started/troubleshooting.md#oh-my-zsh-git-plugin-hides-gc)
 for the permanent fix.
 
 Then create your first city:
@@ -187,7 +187,7 @@ cd ~/my-city
 ```
 
 `gc init` registers the city with the supervisor and starts it automatically.
-See the [Quickstart](/docs/getting-started/quickstart) for a complete walkthrough.
+See the [Quickstart](/docs/getting-started/quickstart.md) for a complete walkthrough.
 
 ## Docs preview
 
